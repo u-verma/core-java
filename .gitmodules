@@ -1,0 +1,6 @@
+[submodule "inner-class"]
+	path = inner-class
+	url = git@github.com:u-verma/inner-class.git
+[submodule "serialization"]
+	path = serialization
+	url = git@github.com:u-verma/serialization.git
